@@ -1,7 +1,0 @@
-Common CTF Techniques
-
-1. Check HTML/CSS/JS through inspect
-2. Check Network, Cookies, and Headers
-3. User Burp to modify headers, requests, or responses.
-4. View page source
-5. Edit URL, e.g., robot.txt
