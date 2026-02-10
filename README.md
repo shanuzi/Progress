@@ -1,7 +1,7 @@
-# CTF Training Repository
+# CTF Training Repo
 
 This repository contains my cybersecurity training progress,
-writeups, and notes while learning penetration testing.
+writeups, and notes while learning web exploits, XSS, SQLi, and penetration testing.
 
 ## Platforms
 - picoCTF
