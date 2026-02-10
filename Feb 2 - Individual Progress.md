@@ -2,11 +2,11 @@
 
 ## Daily Training Log
 
-**Date:** _______________ | **Training Day:** ___/180 (or ___/90 for 3-month plan)
+**Date:** <ins>Feb 10, 2026 </ins> | **Training Day:** <ins>3</ins>/180 (or <ins>3</ins>/90 for 3-month plan)
 
-### 1. Time Investment
+### 1.<u> Time Investment</u>
 
-- [ ] Training time today: _______ hours
+- [ ] Training time today: <ins>2</ins> hours
 - [ ] Goal met? (Yes/No)
 - [ ] Consistency streak: _____ days
 
