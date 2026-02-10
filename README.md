@@ -13,3 +13,9 @@ writeups, and notes while learning penetration testing.
 
 ## Goal
 180 days of consistent training.
+
+## iowheduha9ishd
+You're always on my mind, that's how much I care
+I can't think of a time that you weren't there
+I know that I'd be lying if I didn't want you here
+'Cause, baby, I'm in love, and why can't you just live near?
