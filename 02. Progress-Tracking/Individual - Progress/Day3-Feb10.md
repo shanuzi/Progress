@@ -35,7 +35,7 @@
 - [x] Updated cheat sheet (+5 pts)
 - [x] Practiced timed challenge (+5 pts)
 
-**Quality Points Total:** 35
+**Quality Points Total:** <ins>35</ins>
 
 ### 4. Category Focus Today
 
@@ -49,24 +49,28 @@ Which categories did you practice?
 - [ ] OSINT
 - [ ] Other: ___________
 
-**Primary Specialty:** 180 minutes
+**Primary Specialty:** <ins>180</ins> minutes
 
-**Secondary Specialty:** 30 minutes
+**Secondary Specialty:** <ins>30</ins> minutes
 
 **Other Categories:** _____ minutes
 
 ### 5. Reflection (Qualitative)
 
 **What went well today?**
-I was able to apply my technique of finding flags by following my own process, inspecting code, checking the network, then intercept request/responses. 
+
+<ins>I was able to apply my technique of finding flags by following my own process, inspecting code, checking the network, then intercept request/responses. </ins>
 
 
 **What challenged you?**
-What challenged me is that I'm unaware of the idea that you can manipulate URL links to access different files or data. I was stuck to the problem for some time.
+
+<ins>What challenged me is that I'm unaware of the idea that you can manipulate URL links to access different files or data. I was stuck to the problem for some time.</ins>
 
 **Key learning:**
-Able to learn new techniques, such as editing the URL to access hidden files, e.g., robots.txt.
+
+<ins>Able to learn new techniques, such as editing the URL to access hidden files, e.g., robots.txt.
+I was also able to learn a little bit of git.</ins>
 
 **Tomorrow's focus:**
 
-More CTF challenges and new techniques.
+<ins>More CTF challenges and new techniques.</ins>
