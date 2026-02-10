@@ -6,9 +6,9 @@
 
 ### 1.<u> Time Investment</u>
 
-- [ ] Training time today: <ins>2</ins> hours
-- [ ] Goal met? (Yes/No)
-- [ ] Consistency streak: _____ days
+- [x] Training time today: <ins>2</ins> hours
+- [x] Goal met? (<ins>Yes</ins>/No)
+- [x] Consistency streak: __<ins>3</ins>__ days
 
 **Points:**
 
@@ -21,11 +21,11 @@
 
 | Difficulty      | Challenges Solved | Points Earned |
 | --------------- | ----------------- | ------------- |
-| Easy            | _____ × 5 pts     | _____         |
+| Easy            | <ins>4</ins> × 5 pts     | __<ins>20</ins>__         |
 | Medium          | _____ × 15 pts    | _____         |
 | Hard            | _____ × 30 pts    | _____         |
 | Expert          | _____ × 50 pts    | _____         |
-| **Daily Total** |                   | **_____**     |
+| **Daily Total** |                   | **<ins>20</ins>**     |
 
 ### 3. Quality Indicators
 
