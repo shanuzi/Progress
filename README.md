@@ -9,7 +9,10 @@ writeups, and notes while learning web exploits, XSS, SQLi, and penetration test
 
 ## Current Focus
 - Web Exploitation
-- Basic Reverse Engineering
+- Intercept POST requests
+- Modify Headers
+- Brute Force using Burp
+- XSS
 
 ## Goal
 180 days of consistent training.
