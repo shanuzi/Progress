@@ -1,1 +1,1 @@
-![alt text](https://github.com/[shanuzi]/[Progress]/blob/[main]/thechallenge.png?raw=true)
+![alt text](https://github.com/[shanuzi]/[Progress]/blob/[main]/Screenshots/thechallenge.png?raw=true)
