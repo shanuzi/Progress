@@ -1,2 +1,2 @@
-![Project Logo](Screenshots/the challenge.png)
+![Project Logo](Screenshots/thechallenge.png)
 
